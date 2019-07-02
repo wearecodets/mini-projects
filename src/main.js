@@ -1,1 +1,5 @@
-console.log('Hello, world!');
+const addItems = document.querySelector('.add-items');
+const itemsList = document.querySelector('.plates');
+const items = [];
+
+// Follow the video and code here
